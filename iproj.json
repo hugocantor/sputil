@@ -1,3 +1,9 @@
 {
-  "description": "SPUTIL"
+  "description": "SPUTIL",
+  "objlib": "HCLIB",
+  "curlib": "HCLIB",
+  "includePath": [
+    "."
+  ],
+  "buildCommand": "makei build"
 }
